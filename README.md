@@ -87,7 +87,7 @@ Tooling: `pwntools`, `pwndbg`, Kali Linux
 
 ---
 
-> *Elegance in e is not decoration — it is control.*
+> *Elegance in CS is not decoration — it is control.*
 
 ---
 
