@@ -91,6 +91,7 @@ Tooling: `pwntools`, `pwndbg`, Kali Linux
 
 ---
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lord-Melflam&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lord-Melflam&show_icons=true&theme=dark&cache_seconds=86400)
+
 
 
