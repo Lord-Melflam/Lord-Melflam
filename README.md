@@ -1,4 +1,4 @@
-# Lord Melflam 👑
+# 👑🔥 Lord Melflam 🔥👑
 
 MSc Computer Science Engineering — Systems • Cybersecurity • Software 
 UCLouvain (EPL)
@@ -45,7 +45,6 @@ But most importantly about how to keep tthem working in a reliable and secure wa
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
 
 ---
 
