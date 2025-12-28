@@ -1,6 +1,6 @@
 # 👑🔥 Lord Melflam 🔥👑
 
-MSc Computer Science Engineering — Systems • Cybersecurity • Software 
+MSc Computer Science Engineering: Systems • Cybersecurity • Software 
 UCLouvain (EPL)
 
 I build soltions that are **measured, optimized, and understood**.  
@@ -8,7 +8,7 @@ If it’s slow, fragile, or hand-wavy, I don’t trust it.
 
 ---
 
-## Domain of Focus
+## 🎯 Domain of Focus
 
 - **Cybersecurity & Network**
 - **Systems & Low-Level Programming**
@@ -16,12 +16,12 @@ If it’s slow, fragile, or hand-wavy, I don’t trust it.
 - **Performance Analysis & Benchmarking**
 - **Software**
 
-I care about how things work *under the hood*: memory, caches, indexes, execution paths.
-But most importantly about how to keep tthem working in a reliable and secure way.
+I care about how things work *under the hood*: memory, caches, indexes, execution paths...
+But most importantly about how to keep them working in a reliable and secure way.
 
 ---
 
-## Arsenal
+## 🛠️ Arsenal
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -53,10 +53,6 @@ But most importantly about how to keep tthem working in a reliable and secure wa
 ![pwntools](https://img.shields.io/badge/pwntools-111111?style=for-the-badge&logo=python&logoColor=white)
 ![WRK](https://img.shields.io/badge/WRK-444444?style=for-the-badge)
 
-
-**Concepts**  
-Core Computer Science Engineering
-
 ---
 
 ## Selected Works
@@ -69,9 +65,10 @@ Designed controlled experiments to evaluate server performance under load.
 
 🔗 *Pinned repository*
 -  https://github.com/Lord-Melflam/linfo2241_project2_24-25
+
 ---
 
-### 🧨 Systems Security Labs
+### 🛡️ Systems Security Labs
 Practical exploitation exercises under real constraints:
 - Buffer overflows
 - ASLR-enabled binaries
@@ -80,6 +77,7 @@ Practical exploitation exercises under real constraints:
 Tooling: `pwntools`, `pwndbg`, Kali Linux  
 🔗 *Pinned repository*
 - https://github.com/Lord-Melflam/Lord-Melflam-LINFO2144_2025_P2
+
 ---
 
 ## Presence
@@ -92,6 +90,3 @@ Tooling: `pwntools`, `pwndbg`, Kali Linux
 > *Elegance in CS is not decoration — it is control.*
 
 ---
-
-
-
