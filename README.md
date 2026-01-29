@@ -1,22 +1,22 @@
 # 👑🔥 Lord Melflam 🔥👑
 
-MSc Computer Science Engineering: Systems • Cybersecurity • Software 
-UCLouvain (EPL)
+MSc Computer Science Engineering: Systems • Cybersecurity • Software
 
-I build solutions that are **measured, optimized, and understood**.  
-If it’s slow, fragile, or hand-wavy, I don’t trust it.
+I build solutions that are **maintainable, reusable, evolvable**.  
+If it’s slow, fragile, or hand-wavy, I find my way to strengthen it.
+If it's already working, I find my way to optimize it.
 
 ---
 
 ## 🎯 Domain of Focus
 
+- **Software**
 - **Cybersecurity & Network**
 - **Systems & Low-Level Programming**
-- **Database Design & Query Optimization**
 - **Performance Analysis & Benchmarking**
-- **Software**
+- **Database Design & Query Optimization**
 
-I care about how things work *under the hood*: memory, caches, indexes, execution paths...
+I care about how things work *under the hood*.
 But most importantly about how to keep them working in a reliable and secure way.
 
 ---
