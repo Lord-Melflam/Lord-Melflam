@@ -80,6 +80,16 @@ Tooling: `pwntools`, `pwndbg`, Kali Linux
 - https://github.com/Lord-Melflam/Lord-Melflam-LINFO2144_2025_P2
 
 ---
+### </> Software engineering
+Currently designing a software with the latest technologies available intended to make student courses choices easier (better orientation) based on concrete feedbacks.
+- Latest technologies for frontend
+- Latest teschnologies for backend
+- Highly scalable/adaptable (credits to my SME(Software maintenance and evolution) course)
+
+🔗 *Pinned repository*
+- https://github.com/Lord-Melflam/RYC
+
+---
 
 ## Presence
 
