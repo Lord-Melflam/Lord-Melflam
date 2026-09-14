@@ -167,6 +167,8 @@ and throughput analysis, and a methodology written down so the numbers can be re
 
 <img height="200" src="https://streak-stats.demolab.com/?user=Lord-Melflam&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
+<img width="700" src="https://ghchart.rshah.org/7aa2f7/Lord-Melflam" alt="Contribution heatmap, last 12 months" />
+
 </div>
 
 <br />
