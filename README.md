@@ -159,13 +159,13 @@ and throughput analysis, and a methodology written down so the numbers can be re
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lord-Melflam&theme=tokyonight" width="88%" alt="Profile summary" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lord-Melflam&theme=tokyonight" alt="Stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lord-Melflam&theme=tokyonight" alt="Top languages by repository" />
 
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lord-Melflam&theme=tokyonight" alt="Top languages by repository" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lord-Melflam&theme=tokyonight" alt="Most committed languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lord-Melflam&theme=tokyonight" alt="Most committed languages" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lord-Melflam&theme=tokyonight&utcOffset=2" alt="Productive time" />
 
-<img height="195" src="https://streak-stats.demolab.com/?user=Lord-Melflam&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lord-Melflam&theme=tokyonight&utcOffset=2" alt="Productive time" />
+<img height="200" src="https://streak-stats.demolab.com/?user=Lord-Melflam&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 </div>
 
